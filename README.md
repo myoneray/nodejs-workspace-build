@@ -34,4 +34,4 @@ npm update -g  package_name
 
 ----------------------------------------------
 
-### '$ npm install -g cnpm --registry=https://registry.npm.taobao.org'
+
