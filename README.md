@@ -1,3 +1,6 @@
+### 淘寶鏡像：  --registry=https://registry.npm.taobao.org
+
+
 # nodejs-workspace-build
 
 主题：node安装
